@@ -1,0 +1,279 @@
+{
+    "fire_mage": {
+        "references": [
+        ],
+        "spells": [
+            "Unbound Fire",
+            "Blazing Soul",
+            "Cauterize",
+            "Dragon's Teeth",
+            "Inferno",
+            "Combustion",
+            "Mending Warmth",
+            "Bolide",
+            "Incendiary Flow",
+            "Inferno Jet",
+            "Radiant Helix",
+            "Bombardment",
+            "Scorching Hands",
+            "Chaos Fireball",
+            "Punishing Fire",
+            "Flamestrike",
+            "Forbidden Sun",
+            "Volcano",
+            "Sol Invictus"
+        ],
+        "spells_by_rank": {
+            "novice": 0,
+            "apprentice": 0,
+            "adept": 0,
+            "expert": 0,
+            "master": 0
+        }
+    },
+    "frost_mage": {
+        "references": [
+        ],
+        "spells": [
+            "Hailstone",
+            "Rimedrop",
+            "Icy Vortex",
+            "Creeping Cold",
+            "Fracture",
+            "Frostpiercer",
+            "Crippling Chill",
+            "Frost Nova",
+            "Ice Shiv",
+            "Gelid Gale",
+            "Whiteout",
+            "Sleet Storm",
+            "Crystalline Spear",
+            "Glacial Ray",
+            "Frozen Orb",
+            "Howling Blast",
+            "Twister",
+            "Frozen Maelstrom"
+        ],
+        "spells_by_rank": {
+            "novice": 0,
+            "apprentice": 0,
+            "adept": 0,
+            "expert": 0,
+            "master": 0
+        }
+    },
+    "shock_mage": {
+        "references": [
+        ],
+        "spells": [
+            "Crackle",
+            "Induced Charge",
+            "Rift Bolt",
+            "Thundercrack",
+            "Unstable Current",
+            "Electrosphere",
+            "Scattershock",
+            "Overload",
+            "Lightning Strike",
+            "Shock Nova",
+            "Mage's Fury",
+            "Streak",
+            "Lightning Flood",
+            "Cyclonic Rift",
+            "Fingers of the Mountain",
+            "Static Dome",
+            "Atomize",
+            "Twisting Tempest"
+        ],
+        "spells_by_rank": {
+            "novice": 0,
+            "apprentice": 0,
+            "adept": 0,
+            "expert": 0,
+            "master": 0
+        }
+    },
+    "arcane_mage": {
+        "references": [
+        ],
+        "spells": [
+            "Magus Dart"
+        ],
+        "spells_by_rank": {
+            "novice": 0,
+            "apprentice": 0,
+            "adept": 0,
+            "expert": 0,
+            "master": 0
+        }
+    },
+    "evoker": {
+        "references": [
+        ],
+        "spells": [
+            "Blazing Soul"
+        ],
+        "spells_by_rank": {
+            "novice": 0,
+            "apprentice": 0,
+            "adept": 0,
+            "expert": 0,
+            "master": 0
+        }
+    },
+    "daedric_summoner": {
+        "references": [
+        ],
+        "spells": [
+            "Conjure Dremora Churl"
+        ],
+        "spells_by_rank": {
+            "novice": 0,
+            "apprentice": 0,
+            "adept": 0,
+            "expert": 0,
+            "master": 0
+        }
+    },
+    "necromancer": {
+        "references": [
+        ],
+        "spells": [
+            "Bile Blight"
+        ],
+        "spells_by_rank": {
+            "novice": 0,
+            "apprentice": 0,
+            "adept": 0,
+            "expert": 0,
+            "master": 0
+        }
+    },
+    "conjurer": {
+        "references": [
+        ],
+        "spells": [
+            "Conjure Putrid Imp"
+        ],
+        "spells_by_rank": {
+            "novice": 0,
+            "apprentice": 0,
+            "adept": 0,
+            "expert": 0,
+            "master": 0
+        }
+    },
+    "healer": {
+        "references": [
+        ],
+        "spells": [
+            "Wild Healing"
+        ],
+        "spells_by_rank": {
+            "novice": 0,
+            "apprentice": 0,
+            "adept": 0,
+            "expert": 0,
+            "master": 0
+        }
+    },
+
+
+
+
+
+
+
+
+
+    
+    
+    "necromancer": {
+        "references": [
+            "0xNecro1",
+            "0xNecro2",
+            "0xMageNoir1"
+        ],
+        "spells": [
+            "Anima Blast",
+            "Shroudwalk",
+            "Test Magicka"
+        ],
+        "spells_by_rank": {
+            "novice": 1,
+            "apprentice": 0,
+            "adept": 0,
+            "expert": 2,
+            "master": 0
+        }
+    },
+    "daedric_summoner": {
+        "references": [
+            "0xSummon1",
+            "0xSummon2"
+        ],
+        "spells": [
+            "Anima Blast",
+            "Shroudwalk"
+        ],
+        "spells_by_rank": {
+            "novice": 1,
+            "apprentice": 0,
+            "adept": 0,
+            "expert": 1,
+            "master": 0
+        }
+    },
+    "evoker": {
+        "references": [
+            "0xEvoker1",
+            "0xEvoker2",
+            "0xEvoker3"
+        ],
+        "spells": [
+            "Anima Blast",
+            "Shroudwalk",
+            "Mage's Fury",
+            "Test Magicka"
+        ],
+        "spells_by_rank": {
+            "novice": 1,
+            "apprentice": 0,
+            "adept": 0,
+            "expert": 2,
+            "master": 0
+        }
+    },
+    "conjurer": {
+        "references": [
+            "0xConjurer1",
+            "0xConjurer2",
+            "0xMageNoir1"
+        ],
+        "spells": [
+            "Anima Blast"
+        ],
+        "spells_by_rank": {
+            "novice": 1,
+            "apprentice": 0,
+            "adept": 0,
+            "expert": 0,
+            "master": 0
+        }
+    },
+    "illusionist": {
+        "references": [
+            "0xIllusionist1"
+        ],
+        "spells": [
+            "Shroudwalk"
+        ],
+        "spells_by_rank": {
+            "novice": 0,
+            "apprentice": 0,
+            "adept": 0,
+            "expert": 1,
+            "master": 0
+        }
+    }
+}
