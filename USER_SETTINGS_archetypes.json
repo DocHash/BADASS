@@ -97,7 +97,11 @@
         "references": [
         ],
         "spells": [
-            "Magus Dart"
+            "Magus Dart",
+            "Caster's Sigil",
+            "Magicka Flare",
+            "Astral Rune",
+            "Astral Strike"
         ],
         "spells_by_rank": {
             "novice": 0,
@@ -111,7 +115,28 @@
         "references": [
         ],
         "spells": [
-            "Blazing Soul"
+            "Blazing Soul",
+            "Magus Dart",
+            "Harsh Lesson",
+            "Inferno",
+            "Rift Bolt",
+            "Caster's Sigil",
+            "Crippling Chill",
+            "Daedric Resonance",
+            "Damping Matrix",
+            "Frost Nova",
+            "Electrosphere",
+            "Magicka Flare",
+            "Warstorm Ward",
+            "Shock Nova",
+            "Punishing Fire",
+            "Glacial Ray",
+            "Tri-Attack",
+            "Brand of Condemnation",
+            "Apocalypse",
+            "Astral Strike",
+            "Talons of Nirn",
+            "Godform"
         ],
         "spells_by_rank": {
             "novice": 0,
@@ -168,6 +193,74 @@
         ],
         "spells": [
             "Wild Healing"
+        ],
+        "spells_by_rank": {
+            "novice": 0,
+            "apprentice": 0,
+            "adept": 0,
+            "expert": 0,
+            "master": 0
+        }
+    },
+    "paladin": {
+        "references": [
+        ],
+        "spells": [
+            "Immolating Glare"
+        ],
+        "spells_by_rank": {
+            "novice": 0,
+            "apprentice": 0,
+            "adept": 0,
+            "expert": 0,
+            "master": 0
+        }
+    },
+    "bard": {
+        "references": [
+        ],
+        "spells": [
+            "SHOUT"
+        ],
+        "spells_by_rank": {
+            "novice": 0,
+            "apprentice": 0,
+            "adept": 0,
+            "expert": 0,
+            "master": 0
+        }
+    },
+    "tongue": {
+        "references": [
+        ],
+        "spells": [
+            "SHOUT"
+        ],
+        "spells_by_rank": {
+            "novice": 0,
+            "apprentice": 0,
+            "adept": 0,
+            "expert": 0,
+            "master": 0
+        }
+    },
+    "warrior": {
+        "references": [
+        ],
+        "spells": [
+        ],
+        "spells_by_rank": {
+            "novice": 0,
+            "apprentice": 0,
+            "adept": 0,
+            "expert": 0,
+            "master": 0
+        }
+    },
+    "marksman": {
+        "references": [
+        ],
+        "spells": [
         ],
         "spells_by_rank": {
             "novice": 0,

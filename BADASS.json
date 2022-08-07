@@ -1,0 +1,2237 @@
+{
+    "SETTINGS": {
+    },
+
+    "ARCHETYPES": {
+        "fire_mage": {
+            "references": [
+            ],
+            "spells": [
+                "Unbound Fire",
+                "Blazing Soul",
+                "Cauterize",
+                "Dragon's Teeth",
+                "Inferno",
+                "Combustion",
+                "Mending Warmth",
+                "Bolide",
+                "Incendiary Flow",
+                "Inferno Jet",
+                "Radiant Helix",
+                "Bombardment",
+                "Scorching Hands",
+                "Chaos Fireball",
+                "Punishing Fire",
+                "Flamestrike",
+                "Forbidden Sun",
+                "Volcano",
+                "Sol Invictus"
+            ],
+            "spells_by_rank": {
+                "novice": 0,
+                "apprentice": 0,
+                "adept": 0,
+                "expert": 0,
+                "master": 0
+            }
+        },
+        "frost_mage": {
+            "references": [
+            ],
+            "spells": [
+                "Hailstone",
+                "Rimedrop",
+                "Icy Vortex",
+                "Creeping Cold",
+                "Fracture",
+                "Frostpiercer",
+                "Crippling Chill",
+                "Frost Nova",
+                "Ice Shiv",
+                "Gelid Gale",
+                "Whiteout",
+                "Sleet Storm",
+                "Crystalline Spear",
+                "Glacial Ray",
+                "Frozen Orb",
+                "Howling Blast",
+                "Twister",
+                "Frozen Maelstrom"
+            ],
+            "spells_by_rank": {
+                "novice": 0,
+                "apprentice": 0,
+                "adept": 0,
+                "expert": 0,
+                "master": 0
+            }
+        },
+        "shock_mage": {
+            "references": [
+            ],
+            "spells": [
+                "Crackle",
+                "Induced Charge",
+                "Rift Bolt",
+                "Thundercrack",
+                "Unstable Current",
+                "Electrosphere",
+                "Scattershock",
+                "Overload",
+                "Lightning Strike",
+                "Shock Nova",
+                "Mage's Fury",
+                "Streak",
+                "Lightning Flood",
+                "Cyclonic Rift",
+                "Fingers of the Mountain",
+                "Static Dome",
+                "Atomize",
+                "Twisting Tempest"
+            ],
+            "spells_by_rank": {
+                "novice": 0,
+                "apprentice": 0,
+                "adept": 0,
+                "expert": 0,
+                "master": 0
+            }
+        },
+        "arcane_mage": {
+            "references": [
+            ],
+            "spells": [
+                "Magus Dart",
+                "Caster's Sigil",
+                "Magicka Flare",
+                "Astral Rune",
+                "Astral Strike"
+            ],
+            "spells_by_rank": {
+                "novice": 0,
+                "apprentice": 0,
+                "adept": 0,
+                "expert": 0,
+                "master": 0
+            }
+        },
+        "evoker": {
+            "references": [
+            ],
+            "spells": [
+                "Blazing Soul",
+                "Magus Dart",
+                "Harsh Lesson",
+                "Inferno",
+                "Rift Bolt",
+                "Caster's Sigil",
+                "Crippling Chill",
+                "Daedric Resonance",
+                "Damping Matrix",
+                "Frost Nova",
+                "Electrosphere",
+                "Magicka Flare",
+                "Warstorm Ward",
+                "Shock Nova",
+                "Punishing Fire",
+                "Glacial Ray",
+                "Tri-Attack",
+                "Brand of Condemnation",
+                "Apocalypse",
+                "Astral Strike",
+                "Talons of Nirn",
+                "Godform"
+            ],
+            "spells_by_rank": {
+                "novice": 0,
+                "apprentice": 0,
+                "adept": 0,
+                "expert": 0,
+                "master": 0
+            }
+        },
+        "daedric_summoner": {
+            "references": [
+            ],
+            "spells": [
+                "Conjure Dremora Churl"
+            ],
+            "spells_by_rank": {
+                "novice": 0,
+                "apprentice": 0,
+                "adept": 0,
+                "expert": 0,
+                "master": 0
+            }
+        },
+        "necromancer": {
+            "references": [
+            ],
+            "spells": [
+                "Bile Blight"
+            ],
+            "spells_by_rank": {
+                "novice": 0,
+                "apprentice": 0,
+                "adept": 0,
+                "expert": 0,
+                "master": 0
+            }
+        },
+        "conjurer": {
+            "references": [
+            ],
+            "spells": [
+                "Conjure Putrid Imp"
+            ],
+            "spells_by_rank": {
+                "novice": 0,
+                "apprentice": 0,
+                "adept": 0,
+                "expert": 0,
+                "master": 0
+            }
+        },
+        "healer": {
+            "references": [
+            ],
+            "spells": [
+                "Wild Healing"
+            ],
+            "spells_by_rank": {
+                "novice": 0,
+                "apprentice": 0,
+                "adept": 0,
+                "expert": 0,
+                "master": 0
+            }
+        },
+        "paladin": {
+            "references": [
+            ],
+            "spells": [
+                "Immolating Glare"
+            ],
+            "spells_by_rank": {
+                "novice": 0,
+                "apprentice": 0,
+                "adept": 0,
+                "expert": 0,
+                "master": 0
+            }
+        },
+        "bard": {
+            "references": [
+            ],
+            "spells": [
+                "SHOUT"
+            ],
+            "spells_by_rank": {
+                "novice": 0,
+                "apprentice": 0,
+                "adept": 0,
+                "expert": 0,
+                "master": 0
+            }
+        },
+        "tongue": {
+            "references": [
+            ],
+            "spells": [
+                "SHOUT"
+            ],
+            "spells_by_rank": {
+                "novice": 0,
+                "apprentice": 0,
+                "adept": 0,
+                "expert": 0,
+                "master": 0
+            }
+        },
+        "warrior": {
+            "references": [
+            ],
+            "spells": [
+            ],
+            "spells_by_rank": {
+                "novice": 0,
+                "apprentice": 0,
+                "adept": 0,
+                "expert": 0,
+                "master": 0
+            }
+        },
+        "marksman": {
+            "references": [
+            ],
+            "spells": [
+            ],
+            "spells_by_rank": {
+                "novice": 0,
+                "apprentice": 0,
+                "adept": 0,
+                "expert": 0,
+                "master": 0
+            }
+        }
+    },
+
+    "SPELLS": {
+        "Perilous Path": {
+            "form_id": "0x803F2",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "alteration",
+            "rank": "apprentice",
+            "description": "Lay down a spike barrier that lasts 10 seconds and randomly staggers enemies moving through the spikes.",
+            "archetypes": [
+            ]
+        },
+        "Raise Wall": {
+            "form_id": "0xCC14",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "alteration",
+            "rank": "apprentice",
+            "description": "Concentrate to summon a wall from the earth that blocks passage.",
+            "archetypes": [
+            ]
+        },
+        "Reynos' Fins": {
+            "form_id": "0x7A94",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "alteration",
+            "rank": "apprentice",
+            "description": "You swim 100% faster for 60 seconds.",
+            "archetypes": [
+            ]
+        },
+        "Wither": {
+            "form_id": "0x12649C",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "alteration",
+            "rank": "apprentice",
+            "description": "Reduces a target's movement speed and attack damage by 5% each second for 20 seconds.",
+            "archetypes": [
+            ]
+        },
+        "Strength of Earth": {
+            "form_id": "0xD6F5",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "alteration",
+            "rank": "adept",
+            "description": "Concentrate to deal 40% more attack damage with your other hand. Release after attacking to stagger nearby foes.",
+            "archetypes": [
+            ]
+        },
+        "Tharn's Prison": {
+            "form_id": "0x2E25",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "alteration",
+            "rank": "adept",
+            "description": "Target humanoid is trapped in a cage of force. Lasts up to 10 seconds, but has 5% chance per second to break.",
+            "archetypes": [
+            ]
+        },
+        "Undermine": {
+            "form_id": "0x2E31",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "alteration",
+            "rank": "adept",
+            "description": "For 30 seconds, shifting earth causes the target to lose its balance when swinging a melee weapon, staggering the target and draining 30 points of Stamina.",
+            "archetypes": [
+            ]
+        },
+        "Tumble Magnet": {
+            "form_id": "0xA5EB",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "alteration",
+            "rank": "expert",
+            "description": "Magnetic artifact that exists for 20 seconds, randomly pulling nearby enemies to the center.",
+            "archetypes": [
+            ]
+        },
+        "Acceleration Rune": {
+            "form_id": "0x124EC9",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "alteration",
+            "rank": "master",
+            "description": "Cast on a nearby surface, launches enemies in the direction they are moving.",
+            "archetypes": [
+            ]
+        },
+        "Battletide": {
+            "form_id": "0x5ECEE",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "alteration",
+            "rank": "master",
+            "description": "Steals 80 points of armor rating from each nearby target for 30 seconds. The caster gains the total amount stolen.",
+            "archetypes": [
+            ]
+        },
+        "Sotha's Maelstrom": {
+            "form_id": "0x86B60",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "alteration",
+            "rank": "master",
+            "description": "Emit radiation that reduces the magic resistance of nearby enemies within 20 feet by 5% per second, up to 100%. Lasts 120 seconds.",
+            "archetypes": [
+            ]
+        },
+        "Talons of Nirn": {
+            "form_id": "0x7FE79",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "alteration",
+            "rank": "master",
+            "description": "Whenever an enemy in the area is staggered, a spike of rock erupts from the ground, tossing the target and dealing 150 Stamina damage. Lasts 60 seconds.",
+            "archetypes": [
+            ]
+        },
+        "Thrumming Stone": {
+            "form_id": "0x124EC7",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "alteration",
+            "rank": "master",
+            "description": "Magical vibrating rock that emits a tremor every 8 seconds, staggering enemies and reducing magic resistance by 40% for 2 seconds. Emits 5 pulses.",
+            "archetypes": [
+            ]
+        },
+        "Wind Running": {
+            "form_id": "0x5F2B",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "alteration",
+            "rank": "master",
+            "description": "Grants the ability to sprint across thin air and immunity to fall damage for 30 seconds.",
+            "archetypes": [
+            ]
+        },
+        "Malviser's Gauntlet": {
+            "form_id": "0x2E2A",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "alteration",
+            "rank": "master",
+            "description": "Holds a target helplessly in front of the caster with telekinetic force until slain or for 10 seconds.",
+            "archetypes": [
+            ]
+        },
+        "Azure Reconstruction": {
+            "form_id": "0x88694",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "conjuration",
+            "rank": "novice",
+            "description": "Expend 15 Stamina per second to heal a damaged conjured minion 20 points per second.",
+            "archetypes": [
+            ]
+        },
+        "Consuming Power": {
+            "form_id": "0x16F92",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "conjuration",
+            "rank": "novice",
+            "description": "Allied summoned or reanimated minion gains 75% extra attack damage for 10 seconds, then dies.",
+            "archetypes": [
+            ]
+        },
+        "Bile Blight": {
+            "form_id": "0xXXXXXX",
+            "mod": "Arcanum.esp",
+            "school": "conjuration",
+            "rank": "novice",
+            "description": "Target undead unit takes 30 magical damage. It sprays caustic bile to enemies within 25 feet. Living units hit take 12 poison damage per second and lose 80 armor for 5 seconds.",
+            "archetypes": [
+            ]
+        },
+        "Conjure Putrid Imp": {
+            "form_id": "0xXXXXXX",
+            "mod": "Arcanum.esp",
+            "school": "conjuration",
+            "rank": "novice",
+            "description": "Summons a Putrid Imp for 60 seconds wherever the caster is pointing. Its Putrid Fire deals 3 fire damage per second for 10 seconds. Whenever an enemy burning from Putrid Fire takes damage not from the Imp, its attacker loses 10 magicka damage and the target takes 10 fire damage.",
+            "archetypes": [
+            ]
+        },
+        "Conjure Riekling Tribesire": {
+            "form_id": "0xXXXXXX",
+            "mod": "Arcanum.esp",
+            "school": "conjuration",
+            "rank": "novice",
+            "description": "Summons the geist of a Riekling Tribesire for 30 seconds wherever the caster is pointing. Its blade deals heavy frost damage, but restores stamina and magicka to its target with every hit.",
+            "archetypes": [
+            ]
+        },
+        "Atronach Mark": {
+            "form_id": "0x2CD7E",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "conjuration",
+            "rank": "apprentice",
+            "description": "Marks a target for 10 seconds. The mark detonates when struck by a summoned or reanimated minion, dealing magic damage equal to 15% of the target's Health.",
+            "archetypes": [
+            ]
+        },
+        "Conjure Cat Totem": {
+            "form_id": "0x27144",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "conjuration",
+            "rank": "apprentice",
+            "description": "Summons a Nordic totem spirit for 60 seconds. It changes between warrior and cat form to heal. (Max. 1)",
+            "archetypes": [
+            ]
+        },
+        "Conjure Dremora Churl": {
+            "form_id": "0x12359",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "conjuration",
+            "rank": "apprentice",
+            "description": "Summons a Dremora Churl for 60 seconds. When killed, a Dremora Churl is summoned under control of the killer.",
+            "archetypes": [
+            ]
+        },
+        "Betrayal of Flesh": {
+            "form_id": "0xXXXXXX",
+            "mod": "Arcanum.esp",
+            "school": "conjuration",
+            "rank": "apprentice",
+            "description": "Curses a lviing target with necrotic enery, causing their flesh to decay and dealing 12 magical damage per second for 5 seconds. If the target dies while cused, they gain 70 bonus health when reanimated.",
+            "archetypes": [
+            ]
+        },
+        "Conjure Sorrowblade": {
+            "form_id": "0xXXXXXX",
+            "mod": "Arcanum.esp",
+            "school": "conjuration",
+            "rank": "apprentice",
+            "description": "Summons a soldier of sorrow for 60 seconds wherever the caster is pointing. When it dies, it revives and becomes frenzied.",
+            "archetypes": [
+            ]
+        },
+        "Daedric Resonance": {
+            "form_id": "0xXXXXXX",
+            "mod": "Arcanum.esp",
+            "school": "conjuration",
+            "rank": "apprentice",
+            "description": "For 15 seconds, the target loses 10% magic resist and takes 5 magical damage whenever they are struck. If their attacker is a daedra, this damage is tripled and Daedric Resonance's duration is reset. If they die during this duration, fills a soul gem.",
+            "archetypes": [
+            ]
+        },
+        "Conjure Dremora Pit Fighter": {
+            "form_id": "0x12364",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "conjuration",
+            "rank": "adept",
+            "description": "Summons a Dremora Pit Fighter for 60 seconds. It gains 25% extra damage for each nearby enemy.",
+            "archetypes": [
+            ]
+        },
+        "Conjure Xivilai Sorcerer": {
+            "form_id": "0x1228A8",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "conjuration",
+            "rank": "adept",
+            "description": "Summons a Xivilai Sorcerer for 60 seconds. The caster takes 50 points of fire damage.",
+            "archetypes": [
+            ]
+        },
+        "Corpse Explosion": {
+            "form_id": "0x1212EB",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "conjuration",
+            "rank": "adept",
+            "description": "Violently releases the soul of a corpse, disintegrating it with a magical explosion that deals damage equal to 40% of the corpse's maximum Health.",
+            "archetypes": [
+            ]
+        },
+        "Summoning Rune": {
+            "form_id": "0x124EC5",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "conjuration",
+            "rank": "adept",
+            "description": "Cast on a nearby surface, teleports an opponent in front of you when triggered.",
+            "archetypes": [
+            ]
+        },
+        "Conjure Mindwrack Spider": {
+            "form_id": "0xXXXXXX",
+            "mod": "Arcanum.esp",
+            "school": "conjuration",
+            "rank": "adept",
+            "description": "Summons a daedric Mindwrack Spider for 60 seconds wherever the caster is pointing. Its attacks absorb magicka, and if it attacks a target that's casting a spell, the target takes 50 bonus magical damage, and the positive effects of that spell are cast on the spider while negative effects rebound on the target.",
+            "archetypes": [
+            ]
+        },
+        "Dark Bargain": {
+            "form_id": "0xXXXXXX",
+            "mod": "Arcanum.esp",
+            "school": "conjuration",
+            "rank": "adept",
+            "description": "For 60 seconds, the durations of all your conjuration spells are halved, and you may have one additional summoned or reanimated minion.",
+            "archetypes": [
+            ]
+        },
+        "Necrotic Ooze": {
+            "form_id": "0xXXXXXX",
+            "mod": "Arcanum.esp",
+            "school": "conjuration",
+            "rank": "adept",
+            "description": "Creates a 15 foot radius pool of noxious slime for 30 seconds. All living units within the ooze are slowed and take 15 poison damage per second, while undead units regain 15 health per second and move faster. Whenever any unit covered in ooze dies, another pool of Necrotic Ooze is formed around their corpse.",
+            "archetypes": [
+            ]
+        },
+        "Conjure Dremora Champion": {
+            "form_id": "0x128DF",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "conjuration",
+            "rank": "expert",
+            "description": "Summons a Dremora Champion for 60 seconds. Its power attacks deal bonus damage and knock targets airborne.",
+            "archetypes": [
+            ]
+        },
+        "Conjure Dremora Honor Guard": {
+            "form_id": "0x133D6",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "conjuration",
+            "rank": "expert",
+            "description": "Summons a Dremora Honor Guard for 60 seconds. It reduces enemy magic resistance within 15 feet by 25%.",
+            "archetypes": [
+            ]
+        },
+        "Conjure Herne": {
+            "form_id": "0x128E8",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "conjuration",
+            "rank": "expert",
+            "description": "Summons a Herne for 60 seconds. It is accompanied by 3 Spirit Wolves under its command.",
+            "archetypes": [
+            ]
+        },
+        "Conjure Xivilai Lord": {
+            "form_id": "0x12370",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "conjuration",
+            "rank": "expert",
+            "description": "Summons a Xivilai Lord for 60 seconds. When summoned, drains all Magicka and has 200% of this amount.",
+            "archetypes": [
+            ]
+        },
+        "Oathbound Guardian": {
+            "form_id": "0x18AE7",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "conjuration",
+            "rank": "expert",
+            "description": "Living ally is protected by an Oathbound Guardian under his or her command for 60 seconds.",
+            "archetypes": [
+            ]
+        },
+        "Conjure Howlpack Alpha": {
+            "form_id": "0xXXXXXX",
+            "mod": "Arcanum.esp",
+            "school": "conjuration",
+            "rank": "expert",
+            "description": "Summons a Howlpack Alpha for 60 seconds wherever the caster is pointing. When it's summoned, it summons a spirit wolf familiar for 60 seconds for each non-wolf unit within 30 feet. The Howlpack Alpha's attacks have a chance to summon additional spirit wolves.",
+            "archetypes": [
+            ]
+        },
+        "Conjure Lord of the Pit": {
+            "form_id": "0xXXXXXX",
+            "mod": "Arcanum.esp",
+            "school": "conjuration",
+            "rank": "expert",
+            "description": "Summons a greater eidolon of Peryite for 60 seconds at the caster's location. Enemies around it lose armor and magic resistance. While the Lord of the Pit is summoned, you lose 70 health every 7 seconds.",
+            "archetypes": [
+            ]
+        },
+        "Fires of Undeath": {
+            "form_id": "0xXXXXXX",
+            "mod": "Arcanum.esp",
+            "school": "conjuration",
+            "rank": "expert",
+            "description": "Concentrate to unleash foul flames, burning units hit for 20 fire damage per second for 4 seconds. Whenever a unit under the effect of Fires of Undeath dies, they are reanimated under your control for 60 seconds.",
+            "archetypes": [
+            ]
+        },
+        "Song of the Damned": {
+            "form_id": "0xXXXXXX",
+            "mod": "Arcanum.esp",
+            "school": "conjuration",
+            "rank": "expert",
+            "description": "For 60 seconds, whenever you cast a spell, you lose 10% of your current magicka, and summon a Skeleton warrior or archer at random for 15 seconds.",
+            "archetypes": [
+            ]
+        },
+        "Conjure Bear Totem": {
+            "form_id": "0x4734D",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "conjuration",
+            "rank": "master",
+            "description": "Summons a Nordic totem spirit for 240 seconds. It changes between hunter and bear form to heal. (Max. 1)",
+            "archetypes": [
+            ]
+        },
+        "Conjure Dremora Assassin": {
+            "form_id": "0x128F7",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "conjuration",
+            "rank": "master",
+            "description": "Summons a Dremora Assassin for 180 seconds. Its arrows reduce targets below 250 Health to 1 for 10 seconds.",
+            "archetypes": [
+            ]
+        },
+        "Conjure Lord of Bindings": {
+            "form_id": "0x19B2D",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "conjuration",
+            "rank": "master",
+            "description": "Summons a Lord of Bindings for 180 seconds. It does not fight, but rapidly summons Churls in combat.",
+            "archetypes": [
+            ]
+        },
+        "Conjure Nether Lich": {
+            "form_id": "0x128FA",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "conjuration",
+            "rank": "master",
+            "description": "Summons a Nether Lich for 180 seconds. It inflicts a damaging disease, lowers skill levels and raises the dead.",
+            "archetypes": [
+            ]
+        },
+        "Conjure Weeping Daedra": {
+            "form_id": "0x8FDED",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "conjuration",
+            "rank": "master",
+            "description": "Summons a Weeping Daedra for 120 seconds. It steals large amounts of Health with its magical attacks, but turns to inert and brittle stone when an enemy looks at it.",
+            "archetypes": [
+            ]
+        },
+        "Necrowitch": {
+            "form_id": "0x16F95",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "conjuration",
+            "rank": "master",
+            "description": "Summons the corpse of an ancient sorceress to reanimate for 600 seconds and teaches her the (ranged, touch or cloak) elemental spell in your left hand.",
+            "archetypes": [
+            ]
+        },
+        "Army of Darkness": {
+            "form_id": "0xXXXXXX",
+            "mod": "Arcanum.esp",
+            "school": "conjuration",
+            "rank": "master",
+            "description": "Reanimates all dead bodies up to level 50 within 100 feet to fight for you for 60 seconds. Allied undead units within 100 feet summon a skeleton warrior or archer under their control for 60 seconds.",
+            "archetypes": [
+            ]
+        },
+        "Conjure Oblivion Gate": {
+            "form_id": "0xXXXXXX",
+            "mod": "Arcanum.esp",
+            "school": "conjuration",
+            "rank": "master",
+            "description": "Channel in place to summon the memory of a shattered oblivion gate for 7 plus 1% of your max magicka per second. An endless number of Dremora pour out of the gate to your call, but ending the channel instantly banishes them back to oblivion.",
+            "archetypes": [
+            ]
+        },
+        "Crackle": {
+            "form_id": "0x109653",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "destruction",
+            "rank": "novice",
+            "description": "[SHOCK] Does 10 damage to Health and Magicka. A static cloud follows the target, dealing up to 50 damage.",
+            "archetypes": [
+            ]
+        },
+        "Hailstone": {
+            "form_id": "0x2E634",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "destruction",
+            "rank": "novice",
+            "description": "[FROST] An ice crystal that shatters for 15 frost damage to Health and Stamina. Direct hits bypass Frost Resist.",
+            "archetypes": [
+            ]
+        },
+        "Unbound Fire": {
+            "form_id": "0x85594",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "destruction",
+            "rank": "novice",
+            "description": "[FIRE] Bolt of wildfire that deals 10 damage. The flames randomly jump to the target or caster, dealing 25 damage.",
+            "archetypes": [
+            ]
+        },
+        "Blazing Soul": {
+            "form_id": "0x3BD9BD",
+            "mod": "Arcanum.esp",
+            "school": "destruction",
+            "rank": "novice",
+            "description": "[FIRE] For 100 seconds, whenever you cast a fire spell, you gain 4% movement speed, 4% attack speed, and your destruction spells are 4% stronger for 6 seconds. This effect stacks.",
+            "archetypes": [
+            ]
+        },
+        "Rimedrop": {
+            "form_id": "0x2F30C5",
+            "mod": "Arcanum.esp",
+            "school": "destruction",
+            "rank": "novice",
+            "description": "[FROST] A ball of hoarfrost that deals 15 damage to Health and Stamina to all enemies in a 5 foot radius. If the target has less than 20% of their max stamina remaining, they additionally take 5 frost damage to Health per second for 5 seconds. This effect does not stack.",
+            "archetypes": [
+            ]
+        },
+        "Induced Charge": {
+            "form_id": "0x32FD00",
+            "mod": "Arcanum.esp",
+            "school": "destruction",
+            "rank": "novice",
+            "description": "[SHOCK] A spark that deals 12 points of shock damage to the target. If that target is under the effect of another shock spell, summons a wall of lightning under the target.",
+            "archetypes": [
+            ]
+        },
+        "Magus Dart": {
+            "form_id": "0x2D9BA6",
+            "mod": "Arcanum.esp",
+            "school": "destruction",
+            "rank": "novice",
+            "description": "[MAGIC] A blast of raw energy that deals 8 plus 5% of your current magicka as magic damage (Max 50).",
+            "archetypes": [
+            ]
+        },
+        "Cauterize": {
+            "form_id": "0xXXXXXX",
+            "mod": "Arcanum.esp",
+            "school": "destruction",
+            "rank": "novice",
+            "description": "[FIRE] A bolt of heat that does 30 points of fire damage, then heals the target for three times that amount over 15 seconds unless it is undead, an atronach, or a machine.",
+            "archetypes": [
+            ]
+        },
+        "Icy Vortex": {
+            "form_id": "0xXXXXXX",
+            "mod": "Arcanum.esp",
+            "school": "destruction",
+            "rank": "novice",
+            "description": "[FROST] Summons a vortex of cold air that reduces the frost resistance of enemies by 25% and slows them by 25%.",
+            "archetypes": [
+            ]
+        },
+        "Creeping Cold": {
+            "form_id": "0x279BD",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "destruction",
+            "rank": "apprentice",
+            "description": "[FROST] Deals 10 frost damage per second to Health and Stamina. After 6 seconds, freezes the target for 60 damage.",
+            "archetypes": [
+            ]
+        },
+        "Dragon's Teeth": {
+            "form_id": "0x24361",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "destruction",
+            "rank": "apprentice",
+            "description": "[FIRE] Ignites all targets, doing 5 damage for 4 seconds. On death, the ground burns for 15 damage per second.",
+            "archetypes": [
+            ]
+        },
+        "Fracture": {
+            "form_id": "0x279C0",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "destruction",
+            "rank": "apprentice",
+            "description": "[FROST] A layer of thin ice deals 5 damage to Health and Stamina for 3 seconds. The ice shatters for 35 damage when struck by a different frost spell.",
+            "archetypes": [
+            ]
+        },
+        "Inferno": {
+            "form_id": "0x22DAB",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "destruction",
+            "rank": "apprentice",
+            "description": "[FIRE] Attunes the caster to fire, equipping the Ember Bolt spell for up to 15 seconds. It deals 40 fire damage.",
+            "archetypes": [
+            ]
+        },
+        "Rift Bolt": {
+            "form_id": "0x253C2",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "destruction",
+            "rank": "apprentice",
+            "description": "[SHOCK] Deals 20 shock damage to Health and half of that to Magicka and teleports the target backwards.",
+            "archetypes": [
+            ]
+        },
+        "Thundercrack": {
+            "form_id": "0x7C83B",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "destruction",
+            "rank": "apprentice",
+            "description": "[SHOCK] Deafening close range blast that deals 40 points of shock damage to Health and half of that to Magicka.",
+            "archetypes": [
+            ]
+        },
+        "Combustion": {
+            "form_id": "0xE8EBB",
+            "mod": "Arcanum.esp",
+            "school": "destruction",
+            "rank": "apprentice",
+            "description": "[FIRE] Creates a powerful flame in hand that deals 50 damage to all enemies standing in front of you and staggers blocking enemies.",
+            "archetypes": [
+            ]
+        },
+        "Frostpiercer": {
+            "form_id": "0x8D518F",
+            "mod": "Arcanum.esp",
+            "school": "destruction",
+            "rank": "apprentice",
+            "description": "[FROST] A javelin of cold that pierces through objects and enemies to deal 20 frost damage to health and stamina. Applies a stacking slow of 20% for 4 seconds. Upon reaching 4 stacks, the target is frozen for 6 seconds, taking 20 bonus magical damage. This effect can only occur once every 30 seconds per target.",
+            "archetypes": [
+            ]
+        },
+        "Unstable Current": {
+            "form_id": "0x5CD780",
+            "mod": "Arcanum.esp",
+            "school": "destruction",
+            "rank": "apprentice",
+            "description": "[SHOCK] A stream of lightning that does 15 points of shock damage to Health and Magicka per second and bounces between enemies within 10 feet.",
+            "archetypes": [
+            ]
+        },
+        "Caster's Sigil": {
+            "form_id": "0x1B912E",
+            "mod": "Arcanum.esp",
+            "school": "destruction",
+            "rank": "apprentice",
+            "description": "[MAGIC] For 25 seconds, a bolt of magical energy is launched whenever you cast a spell, dealing 5 non-elemental damage.",
+            "archetypes": [
+            ]
+        },
+        "Mending Warmth": {
+            "form_id": "0xXXXXXX",
+            "mod": "Arcanum.esp",
+            "school": "destruction",
+            "rank": "apprentice",
+            "description": "[FIRE] Summons a ball of restorative heat at the target location for 30 seconds that heals nearby units for 10 Health per second and reduces their fire resistance by 30.",
+            "archetypes": [
+            ]
+        },
+        "Crippling Chill": {
+            "form_id": "0xXXXXXX",
+            "mod": "Arcanum.esp",
+            "school": "destruction",
+            "rank": "apprentice",
+            "description": "[FROST] Target is slowed by 20%, deals 20% less damage, and loses 5 Stamina per second for 30 seconds. These effects are doubled if the target has 50% or less Stamina.",
+            "archetypes": [
+            ]
+        },
+        "Bolide": {
+            "form_id": "0x294CD",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "destruction",
+            "rank": "adept",
+            "description": "[FIRE] Meteoric rock that deals 25 fire damage. It heats up as it travels, dealing up to x5 damage based on distance.",
+            "archetypes": [
+            ]
+        },
+        "Electrosphere": {
+            "form_id": "0x1879",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "destruction",
+            "rank": "adept",
+            "description": "[SHOCK] Slow moving ball lightning that strikes for 55 damage to Health and Magicka.",
+            "archetypes": [
+            ]
+        },
+        "Frost Nova": {
+            "form_id": "0x1347EE",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "destruction",
+            "rank": "adept",
+            "description": "[FROST] Radial frost explosion that deals 30 damage to Health and Stamina. Closer targets take up to x2 damage.",
+            "archetypes": [
+            ]
+        },
+        "Ice Shiv": {
+            "form_id": "0x24B44",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "destruction",
+            "rank": "adept",
+            "description": "[FROST] Jagged shard that deals 30 frost damage to Health and Stamina. Targets hit from behind take x3 damage.",
+            "archetypes": [
+            ]
+        },
+        "Incendiary Flow": {
+            "form_id": "0x85910",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "destruction",
+            "rank": "adept",
+            "description": "[FIRE] Creates a molten stream as it passes near terrain, dealing 20 fire damage for 10 seconds.",
+            "archetypes": [
+            ]
+        },
+        "Scattershock": {
+            "form_id": "0x24E49",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "destruction",
+            "rank": "adept",
+            "description": "[SHOCK] A stream of charged bolts that deal 30 damage to Health and half of that to Magicka per second.",
+            "archetypes": [
+            ]
+        },
+        "Inferno Jet": {
+            "form_id": "0x62DB0B",
+            "mod": "Arcanum.esp",
+            "school": "destruction",
+            "rank": "adept",
+            "description": "[FIRE] A long-range stream of fire that deals 30 fire damage per second and reduces the target's armor by 50.",
+            "archetypes": [
+            ]
+        },
+        "Gelid Gale": {
+            "form_id": "0x144993",
+            "mod": "Arcanum.esp",
+            "school": "destruction",
+            "rank": "adept",
+            "description": "[FROST] Deals 30 points of frost damage to Health and Stamina in a line. Leaves a trail of Icy Vortices that last 80 seconds.",
+            "archetypes": [
+            ]
+        },
+        "Magicka Flare": {
+            "form_id": "0x44B637",
+            "mod": "Arcanum.esp",
+            "school": "destruction",
+            "rank": "adept",
+            "description": "[MAGIC] An explosion of pure Magicka for 30 plus 10% of your current magicka as magic damage in a 15 foot radius (Max 200).",
+            "archetypes": [
+            ]
+        },
+        "Radiant Helix": {
+            "form_id": "0xXXXXXX",
+            "mod": "Arcanum.esp",
+            "school": "destruction",
+            "rank": "adept",
+            "description": "[FIRE] A spiral of flame that deals 40 damage to a single target and heals you for half that amount when it hits an enemy.",
+            "archetypes": [
+            ]
+        },
+        "Whiteout": {
+            "form_id": "0xXXXXXX",
+            "mod": "Arcanum.esp",
+            "school": "destruction",
+            "rank": "adept",
+            "description": "[FROST] Creates a chilling fog with a radius of 35 feet for 35 seconds. All enemies within take 15 frost damage per second and have their magic resistance reduced by 15%.",
+            "archetypes": [
+            ]
+        },
+        "Overload": {
+            "form_id": "0xXXXXXX",
+            "mod": "Arcanum.esp",
+            "school": "destruction",
+            "rank": "adept",
+            "description": "[SHOCK] Your shock spells deal 50% bonus damage and cost 50% more for 20 seconds.",
+            "archetypes": [
+            ]
+        },
+        "Bombardment": {
+            "form_id": "0x294D4",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "destruction",
+            "rank": "expert",
+            "description": "[FIRE] A steady stream of exploding projectiles that deal 50 points of damage per second.",
+            "archetypes": [
+            ]
+        },
+        "Lightning Strike": {
+            "form_id": "0x2878",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "destruction",
+            "rank": "expert",
+            "description": "[SHOCK] Lightning strikes the target location, dealing 60 shock damage to Health and half to Stamina.",
+            "archetypes": [
+            ]
+        },
+        "Scorching Hands": {
+            "form_id": "0x2388C",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "destruction",
+            "rank": "expert",
+            "description": "[FIRE] Blasts targets in melee range, dealing 80 points of fire damage per second.",
+            "archetypes": [
+            ]
+        },
+        "Shock Nova": {
+            "form_id": "0x186D",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "destruction",
+            "rank": "expert",
+            "description": "[SHOCK] Radial shockwave that deals 40 damage to Health and Magicka. Those along the edge take up to x2 damage.",
+            "archetypes": [
+            ]
+        },
+        "Sleet Storm": {
+            "form_id": "0x27F2E",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "destruction",
+            "rank": "expert",
+            "description": "[FROST] A rapid stream of ice shards that deal 60 damage to Health and Stamina per second.",
+            "archetypes": [
+            ]
+        },
+        "Chaos Fireball": {
+            "form_id": "0x0D01CB",
+            "mod": "Arcanum.esp",
+            "school": "destruction",
+            "rank": "expert",
+            "description": "[FIRE] Lobs a heavy fireball, dealing 65 damage in a 15 foot radius. Leaves a pool of molten lava that lasts 4 seconds, dealing 30 damage per second and slowing enemies.",
+            "archetypes": [
+            ]
+        },
+        "Punishing Fire": {
+            "form_id": "0x3B88B3",
+            "mod": "Arcanum.esp",
+            "school": "destruction",
+            "rank": "expert",
+            "description": "[FIRE] Hurls a flaming orb that deals 55 fire damage. If the target is affected by a healing potion or spell, Punishing Fire deals triple damage and dispels all healing effects.",
+            "archetypes": [
+            ]
+        },
+        "Crystalline Spear": {
+            "form_id": "0x37BC76",
+            "mod": "Arcanum.esp",
+            "school": "destruction",
+            "rank": "expert",
+            "description": "[FROST] A massive column of ice that does 70 points of frost damage to Health and Stamina in a 10 foot radius. Deals 50% bonus damage to slowed, paralyzed, or frozen targets and staggers them.",
+            "archetypes": [
+            ]
+        },
+        "Glacial Ray": {
+            "form_id": "0x5E1b99",
+            "mod": "Arcanum.esp",
+            "school": "destruction",
+            "rank": "expert",
+            "description": "[FROST] A beam of cold energy that deals 40 frost damage per second and leaves SOLID icy barricades that block movement, deal 80 frost damage per second, and slow nearby enemies.",
+            "archetypes": [
+            ]
+        },
+        "Tri-Attack": {
+            "form_id": "0x446531",
+            "mod": "Arcanum.esp",
+            "school": "destruction",
+            "rank": "expert",
+            "description": "[FIRE-FROST-SHOCK] A tri-elemental, 15-foot radius explosion for 11 fire damage, 11 frost damage to Health and Stamina, and 11 Shock Damage to Health and half that to Magicka.",
+            "archetypes": [
+            ]
+        },
+        "Mage's Fury": {
+            "form_id": "0x809",
+            "mod": "StormCalling.esl",
+            "school": "destruction",
+            "rank": "expert",
+            "description": "[SHOCK] Calls lightning to strike an enemy, dealing 40 damage. If they fall below 25% Health within 4 seconds, an explosion deals an additional 60 damage to them and nearby enemies.",
+            "archetypes": [
+            ]
+        },
+        "Streak": {
+            "form_id": "0x80A",
+            "mod": "StormCalling.esl",
+            "school": "destruction",
+            "rank": "expert",
+            "description": "[SHOCK] Transforms into streams of lightning and flashes forward. Enemies near you take 40 Shock damage to Health and Magicka.",
+            "archetypes": [
+            ]
+        },
+        "Lightning Flood": {
+            "form_id": "0x80E",
+            "mod": "StormCalling.esl",
+            "school": "destruction",
+            "rank": "expert",
+            "description": "[SHOCK] Creates a nexus of storm energy which lasts 10 seconds. It deals 20 Shock Damage and half that amount to Magicka per second to enemies in the area.",
+            "archetypes": [
+            ]
+        },
+        "Apocalypse": {
+            "form_id": "0x23316",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "destruction",
+            "rank": "master",
+            "description": "[FIRE-FROST-SHOCK] Target is assaulted by elemental entities that appear nearby and cast x4 damage Flames, Frostbite and Sparks spells. Lasts 10 seconds.",
+            "archetypes": [
+            ]
+        },
+        "Cyclonic Rift": {
+            "form_id": "0x2D068",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "destruction",
+            "rank": "master",
+            "description": "[SHOCK] Creates a storm portal for 20 seconds. If two portals are active, those approaching either get warped across and take 50 shock damage to Health and Magicka.",
+            "archetypes": [
+            ]
+        },
+        "Fingers of the Mountain": {
+            "form_id": "0x137BE",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "destruction",
+            "rank": "master",
+            "description": "[SHOCK] Electrifies nearby opponents for 30 seconds. When hit by a shock spell, lightning strikes for 120 damage to Health and half of that to Magicka. Only works outdoors.",
+            "archetypes": [
+            ]
+        },
+        "Flamestrike": {
+            "form_id": "0x2E0C0",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "destruction",
+            "rank": "master",
+            "description": "[FIRE] A storm of 24 meteoric fireballs rains down from the heavens in a line extending from the caster, each exploding for 160 fire damage. Only works outdoors.",
+            "archetypes": [
+            ]
+        },
+        "Forbidden Sun": {
+            "form_id": "0x44264 ou 0x8F31B",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "destruction",
+            "rank": "master",
+            "description": "[FIRE] Giant ball of elemental fire that deals 100 points of damage in a wide area on impact. Targets struck lose 200 points of Fire Resist for 4 seconds.",
+            "archetypes": [
+            ]
+        },
+        "Frozen Orb": {
+            "form_id": "0x20A58",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "destruction",
+            "rank": "master",
+            "description": "[FROST] Spinning orb that slowly travels to the target location and hovers there for 3 seconds, spraying ice spikes for 180 frost damage to Health and Stamina.",
+            "archetypes": [
+            ]
+        },
+        "Howling Blast": {
+            "form_id": "0x83A2C ou 0x8F319",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "destruction",
+            "rank": "master",
+            "description": "[FROST] Casts a jet of icy wind that deals 45 damage per second to Health and Stamina. Targets caught in the stream lose 50 points of Frost Resist.",
+            "archetypes": [
+            ]
+        },
+        "Static Dome": {
+            "form_id": "0x83A22 ou 0x8F317",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "destruction",
+            "rank": "master",
+            "description": "[SHOCK] Shock globe that does 25 shock damage to Health and half to Magicka and reduces Shock Resist by 50 points.",
+            "archetypes": [
+            ]
+        },
+        "Twister": {
+            "form_id": "0x2D5DB",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "destruction",
+            "rank": "master",
+            "description": "[FROST] Creates a tornado at the target location. A direct hit sucks up a target, dealing 40 frost damage for 10 seconds. Nearby targets take half damage. Only works outdoors.",
+            "archetypes": [
+            ]
+        },
+        "Volcano": {
+            "form_id": "0x4733C",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "destruction",
+            "rank": "master",
+            "description": "[FIRE] Creates a volcanic eruption at the target location that spits out 8 lava bombs per second for 10 seconds, each dealing 40 fire damage.",
+            "archetypes": [
+            ]
+        },
+        "Sol Invictus": {
+            "form_id": "0x04764D",
+            "mod": "Arcanum.esp",
+            "school": "destruction",
+            "rank": "master",
+            "description": "[FIRE] Summons a blazing sun for 30 seconds, dealing 50 fire damage per second and reducing fire resist by 15% in a 40 foot area. Sunburnt enemies take 60 damage over 10 seconds when hit by a fire spell. Upon expiring, the sun explodes, dealing 100 - 600 fire damage to enemies, based on distance.",
+            "archetypes": [
+            ]
+        },
+        "Frozen Maelstrom": {
+            "form_id": "0xXXXXXX",
+            "mod": "Arcanum.esp",
+            "school": "destruction",
+            "rank": "master",
+            "description": "[FROST] An icy storm lasting 30 seconds that deals 10 frost damage aend reduces frost and magic resist by 4% for 10 seconds per second. Upon losing 50% frost resist, enemies are frozen, taking 250 frost damage (20s Cooldown).",
+            "archetypes": [
+            ]
+        },
+        "Atomize": {
+            "form_id": "0xXXXXXX",
+            "mod": "Arcanum.esp",
+            "school": "destruction",
+            "rank": "master",
+            "description": "[SHOCK] Reduces the target's shock resistance by 150% for 30 seconds. Being struck by a shock spell increases the target's shock resistance by 50% for 10 seconds.",
+            "archetypes": [
+            ]
+        },
+        "Twisting Tempest": {
+            "form_id": "0xXXXXXX",
+            "mod": "Arcanum.esp",
+            "school": "destruction",
+            "rank": "master",
+            "description": "[SHOCK] Summons a tornado in a 40 foot area for 30 seconds that reduces shock resist by 20% and drags units caught in it towards the center. Units in the storm have a 60% chance to be shocked for 60 plus 6% of their current health (Max 120) as shock damage when they're hit by another shock spell.",
+            "archetypes": [
+            ]
+        },
+        "Dispel Magic": {
+            "form_id": "0xBB25",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "illusion",
+            "rank": "novice",
+            "description": "Dispels all magical effects (except diseases) on friends and foes.",
+            "archetypes": [
+            ]
+        },
+        "Ghostwalk": {
+            "form_id": "0xAAE8",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "illusion",
+            "rank": "novice",
+            "description": "Caster is invisible for 10 seconds or until broken, then teleports back to where the spell was cast.",
+            "archetypes": [
+            ]
+        },
+        "Pale Shadow": {
+            "form_id": "0x8558A",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "illusion",
+            "rank": "novice",
+            "description": "Target enemy is attacked by its own image for 10 seconds. It deals the same damage but has 1 Health.",
+            "archetypes": [
+            ]
+        },
+        "Harsh Lesson": {
+            "form_id": "0xXXXXXX",
+            "mod": "Arcanum.esp",
+            "school": "illusion",
+            "rank": "novice",
+            "description": "For 10 seconds, whenever the target casts a spell, they take between 5-30 magical damage, based on their level.",
+            "archetypes": [
+            ]
+        },
+        "Ponder": {
+            "form_id": "0xXXXXXX",
+            "mod": "Arcanum.esp",
+            "school": "illusion",
+            "rank": "novice",
+            "description": "Increases your magicka regeneration by 10% for 40 seconds and grants you one of three powerful effects at random. Ponder cannot be recast until this effect wears off.",
+            "archetypes": [
+            ]
+        },
+        "Backlash": {
+            "form_id": "0x1132DA",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "illusion",
+            "rank": "apprentice",
+            "description": "Interrupts target spellcaster. If a spell is interrupted, the target is hit by their own offensive spells, while non-offensive spells are cast on you.",
+            "archetypes": [
+            ]
+        },
+        "Curse of the Silent": {
+            "form_id": "0x17509",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "illusion",
+            "rank": "apprentice",
+            "description": "Drains 8 points of Magicka per second for 30 seconds or until the target successfully casts a spell.",
+            "archetypes": [
+            ]
+        },
+        "Illusory Flames": {
+            "form_id": "0x3682F",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "illusion",
+            "rank": "apprentice",
+            "description": "Concentrate to deal 30% of their current Health as temporary damage that wears off after 2 seconds.",
+            "archetypes": [
+            ]
+        },
+        "Damping Matrix": {
+            "form_id": "0xA561D3",
+            "mod": "Arcanum.esp",
+            "school": "illusion",
+            "rank": "apprentice",
+            "description": "A cloak that reduces the magicka regeneration of all units within 45 feet by 50% for 60 seconds. Whenever a unit casts a spell, you regain 25 magicka plus 5% of your max magicka.",
+            "archetypes": [
+            ]
+        },
+        "Pain Magnification": {
+            "form_id": "0xXXXXXX",
+            "mod": "Arcanum.esp",
+            "school": "illusion",
+            "rank": "apprentice",
+            "description": "Overloads the target's nerves, causing them to take 10 bonus magical damage from the next 6 hits for 20 seconds. If they are hit 6 times within the first 10 seconds of the spell, Pain Magnification is automatically recast on the target.",
+            "archetypes": [
+            ]
+        },
+        "Blood for Blood": {
+            "form_id": "0x127FA7",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "illusion",
+            "rank": "adept",
+            "description": "Cast on a corpse, summons the anguish of its death as an avenging force to reduce the Health of the killer to 1.",
+            "archetypes": [
+            ]
+        },
+        "Evil Twin": {
+            "form_id": "0x37332",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "illusion",
+            "rank": "adept",
+            "description": "While concentrating, manifests illusions of nearby enemies to attack them. Illusions take extra damage from attacks.",
+            "archetypes": [
+            ]
+        },
+        "Figment of Pain": {
+            "form_id": "0x43CE1",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "illusion",
+            "rank": "adept",
+            "description": "Creates an immobile illusion linked to the target for 20 seconds. Damage felt by either is felt by both.",
+            "archetypes": [
+            ]
+        },
+        "Illusory Pyre": {
+            "form_id": "0x32C8B",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "illusion",
+            "rank": "adept",
+            "description": "Illusory explosion deals 25% of their current Health as temporary damage that wears off after 15 seconds.",
+            "archetypes": [
+            ]
+        },
+        "Shadowbond": {
+            "form_id": "0x31C4D",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "illusion",
+            "rank": "adept",
+            "description": "Caster and target gain invisibility for 20 seconds. When the invisibility is broken, the caster and target swap places.",
+            "archetypes": [
+            ]
+        },
+        "Spiteful Mirage": {
+            "form_id": "0xA83B09",
+            "mod": "Arcanum.esp",
+            "school": "illusion",
+            "rank": "adept",
+            "description": "For 15 seconds, creates an illusory copy of the target to attack the target for the duration, dealing 40% damage and with 25% health.",
+            "archetypes": [
+            ]
+        },
+        "Countermand": {
+            "form_id": "0xXXXXXX",
+            "mod": "Arcanum.esp",
+            "school": "illusion",
+            "rank": "adept",
+            "description": "For 2 seconds, negates up to 100 points of spell damage or effects. If at least one spell hits you while Countermand is active, you regain 100 magicka. Otherwise, Countermand has no effect for 25 seconds.",
+            "archetypes": [
+            ]
+        },
+        "Delusive Smokescreen": {
+            "form_id": "0xXXXXXX",
+            "mod": "Arcanum.esp",
+            "school": "illusion",
+            "rank": "adept",
+            "description": "Conjures a smokescreen that lasts for 20 seconds. You are invisible and gain 40% movement speed while inside. Other units are slowed by 40%.",
+            "archetypes": [
+            ]
+        },
+        "Mind Twist": {
+            "form_id": "0xXXXXXX",
+            "mod": "Arcanum.esp",
+            "school": "illusion",
+            "rank": "adept",
+            "description": "Dispels all Fear, Calm, Frenzy, Armor, Healing, Elemental, Paralysis, and Cloak spells from the target. For each type of spell dispelled this way, they take 12 magical damage per second for 7 seconds.",
+            "archetypes": [
+            ]
+        },
+        "Empathic Agony": {
+            "form_id": "0xA4EF7",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "illusion",
+            "rank": "expert",
+            "description": "For 45 seconds, when the caster loses Health, target creatures or people lose 40% of this amount.",
+            "archetypes": [
+            ]
+        },
+        "Mimic's Cloak": {
+            "form_id": "0x1274CF",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "illusion",
+            "rank": "expert",
+            "description": "For 60 seconds, the caster copies most (non-concentration) spells cast by others within 20 foot.",
+            "archetypes": [
+            ]
+        },
+        "Seidstone": {
+            "form_id": "0x3789F",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "illusion",
+            "rank": "expert",
+            "description": "The stone manifests illusions of nearby dead for 40 seconds. Illusions take extra damage from attacks.",
+            "archetypes": [
+            ]
+        },
+        "Cryptic Command": {
+            "form_id": "0xXXXXXX",
+            "mod": "Arcanum.esp",
+            "school": "illusion",
+            "rank": "expert",
+            "description": "Interrupts the target if they're casting a spell, shattering wards, causing positive effects to be applied to you and negative ones to be cast on the target. If they're power attacking, staggers them instead and deals 100 magical damage. Multiple casts on the same target within 4 seconds deals 10% of the target's current health as magic damage (Max 100).",
+            "archetypes": [
+            ]
+        },
+        "Scapegoat": {
+            "form_id": "0xXXXXXX",
+            "mod": "Arcanum.esp",
+            "school": "illusion",
+            "rank": "expert",
+            "description": "Marks the target for 15 seconds, causing nearby units to become frenzied and focus their attacks on the marked target. It additionally takes 3 magical damage per second for 3 seconds whenever it's hit. Only one unit may be scapegoated at a time.",
+            "archetypes": [
+            ]
+        },
+        "Harrowing Dirge": {
+            "form_id": "0xC74EA",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "illusion",
+            "rank": "master",
+            "description": "When a cursed creature or humanoid dies, all other cursed targets take unresistable damage equal to 20% of their maximum Health. Lasts 40 seconds.",
+            "archetypes": [
+            ]
+        },
+        "Hidden Cobra": {
+            "form_id": "0x46DC4",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "illusion",
+            "rank": "master",
+            "description": "Curses a target for 60 seconds. The curse reduces Health to 1 if the target leaves combat for 5 seconds.",
+            "archetypes": [
+            ]
+        },
+        "Last Word": {
+            "form_id": "0x416BF",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "illusion",
+            "rank": "master",
+            "description": "Interrupts target spellcaster. If a spell is interrupted, any other Illusion spells cast on the target within 10 seconds last four times longer and are twice as powerful.",
+            "archetypes": [
+            ]
+        },
+        "Magicka Void": {
+            "form_id": "0xB5B7",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "illusion",
+            "rank": "master",
+            "description": "Reduces the Health percentage of all targets to match their Magicka percentage.",
+            "archetypes": [
+            ]
+        },
+        "Scream of Pain": {
+            "form_id": "0x321BA",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "illusion",
+            "rank": "master",
+            "description": "Lowers the Health percentage of nearby creatures and humanoids to the caster's Health percentage. The lost Health is restored after 20 seconds.",
+            "archetypes": [
+            ]
+        },
+        "Shroudwalk": {
+            "form_id": "0xDD94B",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "illusion",
+            "rank": "master",
+            "description": "You are invisible for 90 seconds. When performing an action that breaks invisibility, you immediately regain invisibility, up to 5 times.",
+            "archetypes": [
+            ]
+        },
+        "Spectral Warband": {
+            "form_id": "0x85579",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "illusion",
+            "rank": "master",
+            "description": "Manifests illusions of all allies in combat for 60 seconds. Illusions take extra damage from attacks.",
+            "archetypes": [
+            ]
+        },
+        "Ageless Insight": {
+            "form_id": "0xC65D85",
+            "mod": "Arcanum.esp",
+            "school": "illusion",
+            "rank": "master",
+            "description": "Increases the power of all your spells by 15% for 60 seconds. While active, casting 5 spells causes an additional, random master spell to be cast.",
+            "archetypes": [
+            ]
+        },
+        "Vow of Silence": {
+            "form_id": "0xBCCF0C",
+            "mod": "Arcanum.esp",
+            "school": "illusion",
+            "rank": "master",
+            "description": "All units within 60 feet are silenced for 20 seconds, rendered unable to cast spells. You are silenced for 20 seconds.",
+            "archetypes": [
+            ]
+        },
+        "Ceaseless Torment": {
+            "form_id": "0xXXXXXX",
+            "mod": "Arcanum.esp",
+            "school": "illusion",
+            "rank": "master",
+            "description": "Inflicts horrific pain on all units in a 15 foot radius, dealing 40 damage per second for 4 seconds. This duration doesn't run out so long as the target's under the effects of a Fear, Frenzy, or Calm spell.",
+            "archetypes": [
+            ]
+        },
+        "Bone Spirit": {
+            "form_id": "0x3527C",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "restoration",
+            "rank": "novice",
+            "description": "Casts a vengeful spirit that homes in on the target and explodes for 50 points of magic damage to undead.",
+            "archetypes": [
+            ]
+        },
+        "Circle of Strength": {
+            "form_id": "0x36A05",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "restoration",
+            "rank": "novice",
+            "description": "Steals 6 points of Stamina per second from hostiles inside the circle.",
+            "archetypes": [
+            ]
+        },
+        "Wild Healing": {
+            "form_id": "0x82483",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "restoration",
+            "rank": "novice",
+            "description": "Heals the caster 40 points, then heals a random target within range 40 points.",
+            "archetypes": [
+            ]
+        },
+        "Atonement": {
+            "form_id": "0x6BB870",
+            "mod": "Arcanum.esp",
+            "school": "restoration",
+            "rank": "novice",
+            "description": "You lose 30% of your current health and your armor is increased by 40 for 30 seconds. During that time, whenever an enemy strikes you, they take damage over time based on your missing health.",
+            "archetypes": [
+            ]
+        },
+        "False Promise": {
+            "form_id": "0xXXXXXX",
+            "mod": "Arcanum.esp",
+            "school": "restoration",
+            "rank": "novice",
+            "description": "Heals the target 4 points per second for 10 seconds, then deals 40 magical damage to them.",
+            "archetypes": [
+            ]
+        },
+        "Immolating Glare": {
+            "form_id": "0xXXXXXX",
+            "mod": "Arcanum.esp",
+            "school": "restoration",
+            "rank": "novice",
+            "description": "A flash of righteous light that reduces enemy damage by 25% and deals 15 damage to targets who are swinginw ith a weapon. Undead take double damage.",
+            "archetypes": [
+            ]
+        },
+        "Unbreakable Formation": {
+            "form_id": "0xXXXXXX",
+            "mod": "Arcanum.esp",
+            "school": "restoration",
+            "rank": "novice",
+            "description": "Places an aura on you and a target for 60 seconds. As long as the two of you are within 12 feet of one another, both of you deal 20% bonus damage and gradually regain health.",
+            "archetypes": [
+            ]
+        },
+        "Lamb of Mara": {
+            "form_id": "0x36A03",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "restoration",
+            "rank": "apprentice",
+            "description": "For 30 seconds, you gain 35% of the Health the target loses.",
+            "archetypes": [
+            ]
+        },
+        "Leech Seed": {
+            "form_id": "0x13E4FD",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "restoration",
+            "rank": "apprentice",
+            "description": "Infests a living target with a poison spore for 10 seconds. When the caster falls below full Health, the spore absorbs 5 points of Health per second.",
+            "archetypes": [
+            ]
+        },
+        "Mystic Wind": {
+            "form_id": "0xE8B77",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "restoration",
+            "rank": "apprentice",
+            "description": "For 10 seconds, restores 5 points of Magicka per second while the caster is sprinting.",
+            "archetypes": [
+            ]
+        },
+        "Necroplague": {
+            "form_id": "0x34D12",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "restoration",
+            "rank": "apprentice",
+            "description": "Infects a corpse with a spreading virus that deals 9 disease damage for 30 seconds to nonmechanical foes.",
+            "archetypes": [
+            ]
+        },
+        "Slay Living": {
+            "form_id": "0x3E0F",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "restoration",
+            "rank": "apprentice",
+            "description": "Kills a living target in melee range with 25% or less remaining health.",
+            "archetypes": [
+            ]
+        },
+        "Welling Blood": {
+            "form_id": "0x1FCD9",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "restoration",
+            "rank": "apprentice",
+            "description": "Curses a living target. If the target loses at least 60% of its maximum Health within 8 seconds, it dies.",
+            "archetypes": [
+            ]
+        },
+        "Abrogate": {
+            "form_id": "0x7026F7",
+            "mod": "Arcanum.esp",
+            "school": "restoration",
+            "rank": "apprentice",
+            "description": "A ball of energy that deals 15 poison damage to a target. If it is under a healing effect, that effect is dispelled and you are healed for 15.",
+            "archetypes": [
+            ]
+        },
+        "Redeemer's Shield": {
+            "form_id": "0x7077FD",
+            "mod": "Arcanum.esp",
+            "school": "restoration",
+            "rank": "apprentice",
+            "description": "For 40 seconds, you gain 30% magic resistance and 150 armor. This effect dispels upon taking 2 hits, plus 1 additional hit for each 100 points of health you have as you cast this spell. If the shield does not break, it deals 60 magic damage in a 25 foot area upon expiring.",
+            "archetypes": [
+            ]
+        },
+        "Torrid Therapy": {
+            "form_id": "0xXXXXXX",
+            "mod": "Arcanum.esp",
+            "school": "restoration",
+            "rank": "apprentice",
+            "description": "Heals the target for 11 health per second for 30 seconds while reducing their armor by 150 and magic resistance by 45%.",
+            "archetypes": [
+            ]
+        },
+        "Circle of the Moons": {
+            "form_id": "0x111CFB",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "restoration",
+            "rank": "adept",
+            "description": "Steals 8 points of Magicka per second from hostiles inside the circle.",
+            "archetypes": [
+            ]
+        },
+        "Finger of Death": {
+            "form_id": "0x35452",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "restoration",
+            "rank": "adept",
+            "description": "Blast of death magic that damages a living target equal to its Health but the caster takes 125% damage. If this would kill the caster, damage to the target is reduced.",
+            "archetypes": [
+            ]
+        },
+        "Horrid Wilting": {
+            "form_id": "0x12214",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "restoration",
+            "rank": "adept",
+            "description": "Desiccates nonmechanical targets, inflicting 12 disease damage per second for 10 seconds.",
+            "archetypes": [
+            ]
+        },
+        "Ruin": {
+            "form_id": "0x159D8",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "restoration",
+            "rank": "adept",
+            "description": "Weakens an enemy, reducing all skills by 15 points for 120 seconds.",
+            "archetypes": [
+            ]
+        },
+        "Sealed Resolve": {
+            "form_id": "0x1FCCA",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "restoration",
+            "rank": "adept",
+            "description": "Places a seal upon the caster for 15 seconds. Losing 50% of your current Health unlocks the seal, halving incoming damage for its remaining duration.",
+            "archetypes": [
+            ]
+        },
+        "Tree Rings": {
+            "form_id": "0x13DA15",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "restoration",
+            "rank": "adept",
+            "description": "Caster receives 10 layers of tough plant skin, each increasing maximum Health by 15 points. Layers gradually fall off over the course of 30 seconds.",
+            "archetypes": [
+            ]
+        },
+        "Anima Blast": {
+            "form_id": "0x716B11",
+            "mod": "Arcanum.esp",
+            "school": "restoration",
+            "rank": "adept",
+            "description": "A heavy blast of life energy that deals 25 damage to all enemies in a 15 foot area and heals all allies hit for 25.",
+            "archetypes": [
+            ]
+        },
+        "Resplendence": {
+            "form_id": "0xXXXXXX",
+            "mod": "Arcanum.esp",
+            "school": "restoration",
+            "rank": "adept",
+            "description": "For 60 seconds, falling below or rising about 50% health causes you to send out a wave of light that deals 50 damage to enemies and heals allies for 50.",
+            "archetypes": [
+            ]
+        },
+        "Warstorm Ward": {
+            "form_id": "0xXXXXXX",
+            "mod": "Arcanum.esp",
+            "school": "restoration",
+            "rank": "adept",
+            "description": "Increases armor rating by 60 points and negates up to 60 points of spell damage or effects. Enemies around you take 25 points of magic damage per second.",
+            "archetypes": [
+            ]
+        },
+        "Blood Boil": {
+            "form_id": "0x44D44",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "restoration",
+            "rank": "expert",
+            "description": "Concentrate to summon whirling blood that harms foes within 15 feet and the caster. Deals 25 magic damage per second to enemies and 20 to the caster.",
+            "archetypes": [
+            ]
+        },
+        "Decompose": {
+            "form_id": "0x1F1FB",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "restoration",
+            "rank": "expert",
+            "description": "Curses a nonmechanical target for 60 seconds, allowing allies within 10 feet of the target to absorb 15 points of Health per second from the target.",
+            "archetypes": [
+            ]
+        },
+        "Healing Blossom": {
+            "form_id": "0x5F74D",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "restoration",
+            "rank": "expert",
+            "description": "Activates 10 seconds after casting and lasts 10 seconds. The blossom heals the caster 30 points per second.",
+            "archetypes": [
+            ]
+        },
+        "Nature's Balance": {
+            "form_id": "0x12DC",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "restoration",
+            "rank": "expert",
+            "description": "Swaps the Health percentages of the caster and a living target.",
+            "archetypes": [
+            ]
+        },
+        "Resurgence": {
+            "form_id": "0x1E701",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "restoration",
+            "rank": "expert",
+            "description": "For 15 seconds, heals 20 points per second when the caster falls below 50% Health.",
+            "archetypes": [
+            ]
+        },
+        "Sacred Fire": {
+            "form_id": "0x76CCF6",
+            "mod": "Arcanum.esp",
+            "school": "restoration",
+            "rank": "expert",
+            "description": "A ball of divine flame that deals 7 fire damage per second for 7 seconds, doubled against the undead. Units burned have their damage reduced by 50% for the duration.",
+            "archetypes": [
+            ]
+        },
+        "Brand of Condemnation": {
+            "form_id": "0xXXXXXX",
+            "mod": "Arcanum.esp",
+            "school": "restoration",
+            "rank": "expert",
+            "description": "Deals 5 magic damage per second to the target for 30 seconds. During this time, they are Branded, and all effects that would restore health to them are reduced by 100 points.",
+            "archetypes": [
+            ]
+        },
+        "Metastasize": {
+            "form_id": "0xXXXXXX",
+            "mod": "Arcanum.esp",
+            "school": "restoration",
+            "rank": "expert",
+            "description": "A blast of virulence that deals 30 disease damage in a 5 foot area and reduce disease resistance by 50% for 15 seconds. Units under a healing effect take 5 disease damage per second for 15 seconds.",
+            "archetypes": [
+            ]
+        },
+        "Bloodseeker": {
+            "form_id": "0x48398",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "restoration",
+            "rank": "master",
+            "description": "Casts a homing flare at a target. When it reaches the target, it heals or deals magic damage equal to 175% of the Health the target gained or lost while it was in flight.",
+            "archetypes": [
+            ]
+        },
+        "Breath of Arkay": {
+            "form_id": "0x12B063",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "restoration",
+            "rank": "master",
+            "description": "Accumulate 50 points of divine energy per second while concentrating. After you stop concentrating, the energy is converted into healing.",
+            "archetypes": [
+            ]
+        },
+        "Circle of Death": {
+            "form_id": "0x1220F",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "restoration",
+            "rank": "master",
+            "description": "Circle instantly kills living targets below 40% Health.",
+            "archetypes": [
+            ]
+        },
+        "Dust To Dust": {
+            "form_id": "0x11122C",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "restoration",
+            "rank": "master",
+            "description": "Destroys all undead below 40% health.",
+            "archetypes": [
+            ]
+        },
+        "Godform": {
+            "form_id": "0x86B2E",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "restoration",
+            "rank": "master",
+            "description": "Divine energy replenishes up to 15 points of Magicka per second when Health is above 50%. The higher your Health, the faster it replenishes. Lasts 120 seconds.",
+            "archetypes": [
+            ]
+        },
+        "Infinite Light": {
+            "form_id": "0x2F66E",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "restoration",
+            "rank": "master",
+            "description": "Stream of healing energy that diffracts between targets, healing 150 points per second.",
+            "archetypes": [
+            ]
+        },
+        "King's Heart": {
+            "form_id": "0x33CCA",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "restoration",
+            "rank": "master",
+            "description": "A holy spark slowly follows the caster for 60 seconds. When it is nearby, it fortifies most skills by 15% and heals 15 points per second.",
+            "archetypes": [
+            ]
+        },
+        "Life's Finale": {
+            "form_id": "0x83FA8",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "restoration",
+            "rank": "master",
+            "description": "Corrupts nearby nonmechanical targets and the caster for 20 seconds. The corruption deals 100 disease damage per second to others and 75 to the caster.",
+            "archetypes": [
+            ]
+        },
+        "Meridia's Wrath": {
+            "form_id": "0x362C7",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "restoration",
+            "rank": "master",
+            "description": "Attunes the caster to light, equipping the Starstorm spell for up to 100 seconds. This spell deals 30 damage per second to undead while the caster concentrates.",
+            "archetypes": [
+            ]
+        },
+        "Worm Shroud": {
+            "form_id": "0x12CB8D",
+            "mod": "Apocalypse - Magic of Skyrim.esp",
+            "school": "restoration",
+            "rank": "master",
+            "description": "For X seconds, destroys corpses within 20 feet, improving Restoration spells by 5% for 30 seconds. This effect refreshes and stacks up to 10 times.",
+            "archetypes": [
+            ]
+        },
+        "Sutra of Perseverance": {
+            "form_id": "0x7537A7",
+            "mod": "Arcanum.esp",
+            "school": "restoration",
+            "rank": "master",
+            "description": "For 60 seconds, falling below 25% of your max health causes you to heal for 150 health and increases the power of your restoration spells by 25% for 5 seconds. Sutra of Perseverence cannot trigger while this bonus is active.",
+            "archetypes": [
+            ]
+        },
+        "Reckoning": {
+            "form_id": "0xXXXXXX",
+            "mod": "Arcanum.esp",
+            "school": "restoration",
+            "rank": "master",
+            "description": "A ray of holy energy that deals 100 magical damage per second to enemies and heals allies for 100 per second.",
+            "archetypes": [
+            ]
+        },
+        "Scourge of Thras": {
+            "form_id": "0xXXXXXX",
+            "mod": "Arcanum.esp",
+            "school": "restoration",
+            "rank": "master",
+            "description": "A plague that deals 70 disease damage per second for 7 seconds. Then the target bursts, taking damage equal to 15% of their missing health, becoming immune for 7 seconds, and spreading the plague to nearby units.",
+            "archetypes": [
+            ]
+        },
+        "Second Chance": {
+            "form_id": "0xXXXXXX",
+            "mod": "Arcanum.esp",
+            "school": "restoration",
+            "rank": "master",
+            "description": "For 60 seconds, you gain 50% bonus health and stamina regeneration. If you would die during thsi time, instead you are revived with full health, and Second Chance is dispelled.",
+            "archetypes": [
+            ]
+        },
+        "Exalted Armament": {
+            "form_id": "0xXXXXXX",
+            "mod": "Arcanum.esp",
+            "school": "restoration",
+            "rank": "master",
+            "description": "Grants you 200 armor and 40% magic resist against 6 hits. Upon expiring, if the shield is not broken, you gain 50% attack damage for 20 seconds, and your next 6 attacks send out holy swords that deal 150 damage.",
+            "archetypes": [
+            ]
+        },
+
+
+
+
+
+
+
+
+
+        "Astral Bite": {
+            "form_id": "0x835",
+            "mod": "Astral.esl",
+            "school": "destruction",
+            "rank": "novice",
+            "description": "Quickly fires a bolt of Aetherius energy, dealing 8 points of damage and staggering the target.",
+            "archetypes": [
+            ]
+        },
+        "Greater Astral Bite": {
+            "form_id": "0x010838",
+            "mod": "Astral.esl",
+            "school": "destruction",
+            "rank": "novice",
+            "description": "Quickly fires a bolt of Aetherius energy, dealing 12 points of damage and staggering the target.",
+            "archetypes": [
+            ]
+        },
+        "Pure Astral Bite": {
+            "form_id": "0x010839",
+            "mod": "Astral.esl",
+            "school": "destruction",
+            "rank": "novice",
+            "description": "Quickly fires a bolt of Aetherius energy, dealing 17 points of damage and staggering the target.",
+            "archetypes": [
+            ]
+        },
+        "Astral Sap": {
+            "form_id": "0x0108D9",
+            "mod": "Astral.esl",
+            "school": "destruction",
+            "rank": "novice",
+            "description": "Quickly fires a bolt of Aetherius energy, dealing 8 points of damage and staggering the target.",
+            "archetypes": [
+            ]
+        },
+        "Astral Blitz": {
+            "form_id": "0x010836",
+            "mod": "Astral.esl",
+            "school": "destruction",
+            "rank": "expert",
+            "description": "Fires a streak of asterlight dealing 194 damage to Stamina and Magicka.",
+            "archetypes": [
+            ]
+        },
+        "Greater Astral Blitz": {
+            "form_id": "0x010841",
+            "mod": "Astral.esl",
+            "school": "destruction",
+            "rank": "expert",
+            "description": "Fires a streak of asterlight dealing 259 damage to Stamina and Magicka.",
+            "archetypes": [
+            ]
+        },
+        "Pure Astral Blitz": {
+            "form_id": "0x010842",
+            "mod": "Astral.esl",
+            "school": "destruction",
+            "rank": "expert",
+            "description": "Fires a streak of asterlight dealing 345 damage to Stamina and Magicka.",
+            "archetypes": [
+            ]
+        },
+        "Astral Crash": {
+            "form_id": "0x01083F",
+            "mod": "Astral.esl",
+            "school": "destruction",
+            "rank": "expert",
+            "description": "Calls down a piece of Aetherius. The comet crashes on the targeted area, dealing 80 magic damage.",
+            "archetypes": [
+            ]
+        },
+        "Astral Flare": {
+            "form_id": "0x01083C",
+            "mod": "Astral.esl",
+            "school": "destruction",
+            "rank": "expert",
+            "description": "Fires a streak of asterlight dealing 97 damage to the target's Health.",
+            "archetypes": [
+            ]
+        },
+        "Greater Astral Flare": {
+            "form_id": "0x010840",
+            "mod": "Astral.esl",
+            "school": "destruction",
+            "rank": "expert",
+            "description": "Fires a streak of asterlight dealing 129 damage to the target's Health.",
+            "archetypes": [
+            ]
+        },
+        "Pure Astral Flare": {
+            "form_id": "0x010843",
+            "mod": "Astral.esl",
+            "school": "destruction",
+            "rank": "expert",
+            "description": "Fires a streak of asterlight dealing 172 damage to the target's Health.",
+            "archetypes": [
+            ]
+        },
+        "Astral Light": {
+            "form_id": "0x010830",
+            "mod": "Astral.esl",
+            "school": "destruction",
+            "rank": "adept",
+            "description": "Floods enemies with condensed, whispering Magicka, rending 25% of their weapons damage output.",
+            "archetypes": [
+            ]
+        },
+        "Greater Astral Light": {
+            "form_id": "0x0108D1",
+            "mod": "Astral.esl",
+            "school": "destruction",
+            "rank": "adept",
+            "description": "Floods enemies with condensed, whispering Magicka, rending 34% of their weapons damage output.",
+            "archetypes": [
+            ]
+        },
+        "Pure Astral Light": {
+            "form_id": "0x0108D2",
+            "mod": "Astral.esl",
+            "school": "destruction",
+            "rank": "adept",
+            "description": "Floods enemies with condensed, whispering Magicka, rending 43% of their weapons damage output.",
+            "archetypes": [
+            ]
+        },
+        "Astral Rune": {
+            "form_id": "0x010834",
+            "mod": "Astral.esl",
+            "school": "destruction",
+            "rank": "adept",
+            "description": "Cast on a nearby surface, it explodes for 43 damage and spawns a friendly Magic Wisp.",
+            "archetypes": [
+            ]
+        },
+        "Astral Shield": {
+            "form_id": "0x0108DE",
+            "mod": "Astral.esl",
+            "school": "destruction",
+            "rank": "expert",
+            "description": "Maintains a barrier that negates up to 172 spells damage and absorbs incoming spells to replenish Magicka.",
+            "archetypes": [
+            ]
+        },
+        "Astral Shower": {
+            "form_id": "0x010847",
+            "mod": "Astral.esl",
+            "school": "destruction",
+            "rank": "expert",
+            "description": "Summons a shower of stardust. Each comet crashes around the targeted area, dealing 80 magic damage.",
+            "archetypes": [
+            ]
+        },
+        "Astral Spear": {
+            "form_id": "0x010844",
+            "mod": "Astral.esl",
+            "school": "destruction",
+            "rank": "expert",
+            "description": "Fires a spear of starlight that penetrates through enemies. Targets take 64 points of damage, bypassing resistances.",
+            "archetypes": [
+            ]
+        },
+        "Greater Astral Spear": {
+            "form_id": "0x010845",
+            "mod": "Astral.esl",
+            "school": "destruction",
+            "rank": "expert",
+            "description": "Fires a spear of starlight that penetrates through enemies. Targets take 97 points of damage, bypassing resistances.",
+            "archetypes": [
+            ]
+        },
+        "Pure Astral Spear": {
+            "form_id": "0x010846",
+            "mod": "Astral.esl",
+            "school": "destruction",
+            "rank": "expert",
+            "description": "Fires a spear of starlight that penetrates through enemies. Targets take 129 points of damage, bypassing resistances.",
+            "archetypes": [
+            ]
+        },
+        "Astral Strike": {
+            "form_id": "0x010831",
+            "mod": "Astral.esl",
+            "school": "destruction",
+            "rank": "master",
+            "description": "Calls a fiery meteor down from the sky, dealing massive damage to all targets near the impact.",
+            "archetypes": [
+            ]
+        },
+        "Astral Wave": {
+            "form_id": "0x010837",
+            "mod": "Astral.esl",
+            "school": "destruction",
+            "rank": "apprentice",
+            "description": "Floods enemies with tonal vibrations of the stars, rending 12 Magic Resistance and four times the amount of Armor Rating for 30 seconds.",
+            "archetypes": [
+            ]
+        },
+        "Greater Astral Wave": {
+            "form_id": "0x01083A",
+            "mod": "Astral.esl",
+            "school": "destruction",
+            "rank": "apprentice",
+            "description": "Floods enemies with tonal vibrations of the stars, rending 19 Magic Resistance and four times the amount of Armor Rating for 30 seconds.",
+            "archetypes": [
+            ]
+        },
+        "Pure Astral Wave": {
+            "form_id": "0x01083B",
+            "mod": "Astral.esl",
+            "school": "destruction",
+            "rank": "apprentice",
+            "description": "Floods enemies with tonal vibrations of the stars, rending 25 Magic Resistance and four times the amount of Armor Rating for 30 seconds.",
+            "archetypes": [
+            ]
+        }
+    },
+
+    "ITEMS": {
+    }
+}
